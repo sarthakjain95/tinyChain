@@ -1,6 +1,6 @@
 # tinyChain
 
-Tiny Chain is a very basic implementation of block chain written in JavaScript.  
+Tiny Chain is a very basic implementation of block chain written in JavaScript. With a complete Web-Based interface to the core block-chain on the server.
   
 # INSTALLATION  
   
