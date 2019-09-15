@@ -6,7 +6,7 @@ Tiny Chain is a very basic implementation of block chain written in JavaScript.
   
 * Clone the repository in your local directory using 'git clone https://www.github.com/sarthakjain95/tinyChain.git'  
 * Open a terminal and change directory to tinyChain/server/  
-* Execute command npm intall to install all the modules (You need node.js) (See [Node.js](https://nodejs.org/en/))  
+* Execute command npm intall to install all the modules (you need [NODE](https://nodejs.org/en/))  
 * Now run the server by executing command 'node server.js'. You should see the server message "SERVING AT PORT 3000".  
 * Now go to the url 'localhost:3000' in your browser.  
   
