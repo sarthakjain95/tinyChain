@@ -1,0 +1,32 @@
+{
+  "name": "tinychain",
+  "version": "1.0.0",
+  "description": "A simple project to demonstrate the working of blockChain at the very basic level",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "js",
+    "blockChain",
+    "crypto-js",
+    "webdev"
+  ],
+  "author": "fel!x",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthakjain95/tinyChain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sarthakjain95/tinyChain/issues"
+  },
+  "homepage": "https://github.com/sarthakjain95/tinyChain#readme"
+}
